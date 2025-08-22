@@ -1,1 +1,1 @@
-print("Hello, Git is working!")
+print("Hello, welcome to c4gt!")
